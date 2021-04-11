@@ -1,0 +1,14 @@
+---
+title: "Test"
+author: "Matt Hale"
+date: "11/04/2021"
+output: html_document
+---
+
+
+    ```{r, echo=F}
+n <- nrow(mtcars)
+```
+Here `r n` cars are compared
+
+
